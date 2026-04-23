@@ -1,4 +1,4 @@
-<h1 align="center">Hi, Sanjeev Tamang 👋</h1>
+<h1 align="center">Hi, It's Sanjeev Tamang 👋</h1>
 
 <p align="center">
 💻 Software Engineer with 7+ years of experience building <b>scalable web applications</b> and <b>microservices architectures</b>.
